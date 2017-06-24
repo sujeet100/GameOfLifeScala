@@ -92,4 +92,4 @@ To see the game in action. Run main function from GameOfLife Object.
 Enter input as specified in examples above.
 Press enter.
 See the generations of universe in action.
-Kill the process to start the game.
+Kill the process to stop the game.
